@@ -1,5 +1,7 @@
 # Krypto
-A Cryptography project that uses 5 ciphers to encrypt and decrypt text.
+Krypto is a Cryptography based project that uses 5 ciphers to encrypt and decrypt text.
+
+
 
 Use the Encrypt or Decrypt radio button to do the same.
 
